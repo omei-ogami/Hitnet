@@ -1,6 +1,6 @@
 # Hitnet
 
-基本上沒有太大的改動，把資料夾路徑改掉跑一次 notebook 應該就可以開始訓練了，新的 data 我放在 package（約 34.1 GB）。
+基本上沒有太大的改動，把資料夾路徑改掉跑一次 notebook 應該就可以開始訓練了，新的 data 我放在 [drive](https://drive.google.com/file/d/1q5l8HYJM6wbWDxnx31eGwMXalvw9DEIq/view?usp=drive_link)（約 34.1 GB）。
 
 - 每個 match 新增 `hits/`，包含每個 rally 的 `hit.csv`。
 - 更新每個 rally 的 pose。
